@@ -1,5 +1,4 @@
-# 代理列表更新时间: 2025-11-14 12:20:03
-# 总计: 30 个代理
+
 
 socks5://43.106.18.86:10800 [[机房] 新加坡 新加坡 新加坡 — 阿里云 [Alibaba Cloud (Singapore) Private Limited]]
 socks5://14.177.226.226:10800 [[家宽] 越南 河内 河内市 [Vietnam Posts and Telecommunications Group]]
